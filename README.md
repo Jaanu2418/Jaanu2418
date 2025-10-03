@@ -39,27 +39,27 @@
 <body>
   <header>
     <h1 align="center">RESUME</h1>
-    <h1>p.hemanth siva reddy</h1>
-    <p>pulagam vari street,pekeru west godavari, mail:23pa1a0352@vishnu.edu.in</p>
+    <h1>D.Jahnavi</h1>
+    <p>devireddy vari street,west godavari, mail:22pa1a4230@vishnu.edu.in</p>
   </header>
-        <img src="https://i.ibb.co/2kp8Kpn/hemanth.jpg" class="image">
+        <img src="https://i.ibb.co/2kp8Kpn/jahnavi.jpg" class="image">
     
     <section class="section">
         <h2>Education</h2>
         <div class="subsection">
-          <h3>1.sri chaithanya school</h3>
+          <h3>z.p.high school</h3>
             <p><strong>SCC</strong></p>
-            <p>2020-2021 batch</p>
+            <p>2020 batch</p>
             <p>marks percentage:100%</p>
             
-            <h3>2.sasi junior college</h3>
+            <h3>2.aditya junior college</h3>
             <p><strong>IPE</strong></p>
             <p>2021-2023 batch</p>
-            <p>marks percentage:91.2%</p>
+            <p>marks percentage:84.2%</p>
             
             <h3>3.vishnu institute of technology</h3>
-            <p><strong>B-tech,mechanical engineering</strong></p>
-            <p>2023-present</p>
+            <p><strong>B-tech,Artificail intelligence and machine learning engineering</strong></p>
+            <p>2022-present</p>
         </div>
     </section>
 
